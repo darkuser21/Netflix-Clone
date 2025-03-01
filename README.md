@@ -28,6 +28,8 @@ cd Netflix-Clone
 
 3.Open the index.html file in your web browser.
 
+live preview : 
+
 Limitations :
 
 This clone is static and only for visual purposes. Functionalities like playing videos or user authentication are not implemented.
