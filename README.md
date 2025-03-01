@@ -28,7 +28,7 @@ cd Netflix-Clone
 
 3.Open the index.html file in your web browser.
 
-live preview : 
+live preview : https://darkuser21.github.io/Netflix-Clone/
 
 Limitations :
 
